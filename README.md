@@ -1,6 +1,6 @@
 ### Hi I'm a Computer Science Student
 
-- 🌱 I’m currently learning **kotlin**
+- 🌱 I’m currently learning **react native**
 - ⚡ About me: I'm **book lover**
 - 🔭 I’m currently working on Mobile Development
 - 📚 Languages, Frameworks and Databases:<br><br>
